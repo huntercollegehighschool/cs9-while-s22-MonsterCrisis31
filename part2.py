@@ -11,3 +11,10 @@ Hunter
 Hunter
 
 '''
+num=int(input("Enter a number: "))
+def Hunter() :
+  print("Hunter")
+
+for x in range(num) :
+  Hunter()
+  
